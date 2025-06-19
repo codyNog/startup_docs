@@ -58,11 +58,23 @@
 
 ## 07 その他 (Misc)
 - [ ] オフィス・作業場所の確保（登記場所含む）
-- [ ] 必要なITインフラ準備（PC、ネットワーク、メール、チャットツールなど）
 - [ ] 必要な備品・ツールの購入・準備
 - [ ] 名刺作成・発注
 - [ ] 関係各所への挨拶・連絡 (`07_misc/startup_misc_memo.md` 参照)
 - [ ] サプライヤー・外注先の調査・選定
 - [ ] 印鑑（法人実印、銀行印、角印）の作成
+
+## 08 ITインフラ・ソフトウェア管理 (IT Infrastructure)
+- [ ] ソフトウェア管理戦略の策定 (`08_it_infrastructure/it_infrastructure_plan.md` 参照)
+- [ ] 必須ツールの選定・導入（Google Workspace、Claude MAX、GitHub、VS Code、1Password）
+- [ ] 認証・セキュリティ戦略の実装（Google SSO統一、1Passwordでの個別管理）
+- [ ] アプリ配信アカウント開設（Apple Developer、Google Play Console）
+- [ ] インフラ・運用ツール導入（Cloudflare、Sentry、Stripe、外形監視）
+- [ ] 広告・収益化ツール設定（Google AdMob、Google AdSense）
+- [ ] 会計ソフト導入・設定（マネーフォワード クラウド）
+- [ ] ライセンス管理体制の確立（更新スケジュール、コスト管理）
+- [ ] セキュリティ設定（2段階認証、バックアップコード、パスワード管理）
+- [ ] 定期メンテナンススケジュールの設定
+- [ ] 緊急時対応手順の策定
 
 ---
